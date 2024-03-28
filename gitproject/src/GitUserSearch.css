@@ -1,0 +1,47 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  input {
+    padding: 10px;
+    margin: 10px 0;
+    width: 70%;
+    font-size: 16px;
+    border-radius: 50px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .user-info {
+    margin-top: 20px;
+  }
+  
+  img {
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  p {
+    font-size: 18px;
+    color: #555;
+  }
+  
+  /* GitUserSearch.js */

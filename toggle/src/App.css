@@ -1,0 +1,16 @@
+body{
+  transition: background-color 0.5s;
+}
+.dark-mode{
+  background-color: black;
+  color: white;
+}
+Button{
+  padding: 10;
+  font-size: 15px;
+  cursor: pointer
+}
+button:hover {
+  background-color: gray; /* Ganti warna latar belakang saat dihover */
+  color: black; /* Ganti warna teks saat dihover */
+}
